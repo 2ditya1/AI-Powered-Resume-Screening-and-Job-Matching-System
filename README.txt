@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The AI-Based Resume Screening and Job Matching System is an intelligent application that automatically matches candidate resumes with job descriptions using Artificial Intelligence and Natural Language Processing (NLP). The system analyzes skills, experience, education, and keywords from resumes and compares them with job requirements to provide a **matching score** and ranking.
+The AI-Based Resume Screening and Job Matching System is an intelligent application that automatically matches candidate resumes with job descriptions using Artificial Intelligence and Natural Language Processing (NLP). The system analyzes skills, experience, education, and keywords from resumes and compares them with job requirements to provide a matching score and ranking.
 
 This project aims to reduce manual effort in recruitment and improve the accuracy and fairness of candidate shortlisting.
 
@@ -30,8 +30,8 @@ This project aims to reduce manual effort in recruitment and improve the accurac
 
 ## Technologies Used
 
-* **Programming Language:** Python
-* **Libraries & Frameworks:**
+* Programming Language: Python
+* Libraries & Frameworks:
 
   * Natural Language Processing: NLTK / spaCy
   * Machine Learning: Scikit-learn
