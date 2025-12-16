@@ -36,9 +36,9 @@ This project aims to reduce manual effort in recruitment and improve the accurac
   * Natural Language Processing: NLTK / spaCy
   * Machine Learning: Scikit-learn
   * Text Vectorization: TF-IDF / Cosine Similarity
-* **Backend (Optional):** Flask / FastAPI
-* **Database (Optional):** SQLite / MongoDB
-* **Tools:** Git, GitHub
+* Backend (Optional): Flask / FastAPI
+* Database (Optional): SQLite / MongoDB
+* Tools: Git, GitHub
 
 ---
 
